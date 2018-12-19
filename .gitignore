@@ -1,3 +1,12 @@
+# ignore 
+**Scripts/data/
+**Scripts/linux/
+**Scripts/__pycache__/
+**reports/
+**other/
+**experiments/
+**data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
