@@ -7,3 +7,7 @@ The aim of the project is to achieve state of the art accuracy in classifying em
 
 Currently, we are working on various optimization algorithms to obtain higher accuracy. 
 Note: This repo is not yet complete as the project is underway right now. 
+
+# Prerequisites
+
+Download & Install Python 3.6 64-bit https://www.python.org/downloads/ (Make sure you add it to PATH)
